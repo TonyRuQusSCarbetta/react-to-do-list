@@ -1,0 +1,18 @@
+https://codesandbox.io/s/myn2wzr0qy
+
+homework
+creat react app (npm)
+finish your to do list
+
+
+--------------------------------------------------------------------
+
+React creates its own DOM to use the least iterate of the dom as possbile.
+MVC = Model view control or "model controls the data,view what you see on the page,"
+
+github.com/facebook/create-react-app
+
+
+Webpack converts the syntax into just three files .... bundles our files to a plain html, css, and javascript.
+
+Functional Components
